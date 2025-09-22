@@ -19,6 +19,7 @@ for attempt in range(5):
     # For now, just show the loop is working
     print(f"Loop iteration {attempt + 1}")
 
+
 print("\nLoop finished!")
 
 # For debugging - remove this in the final game
