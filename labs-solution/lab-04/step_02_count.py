@@ -27,7 +27,7 @@ for headline in headlines:
     total_words += len(words)
     # total_words = total_words + len(words)
 
-# Calculate and display the average
+# Calculate and display the average (mean)
 average_words = total_words / total_headlines
 print(f"The average headline length is {average_words:.1f} words.")
 
