@@ -19,8 +19,6 @@ def say_hello_to_user(name, seperator="=", width=20):
     - seperator
     - width
   """
-  if not isinstance(width, int) or not isinstance(width, float):
-    raise Exception("Width has to be a number")
   print(seperator * width)
   print(f"Hello {name}")  # formatted string -> {}  => "Hello " + name
   print(seperator * width) 
@@ -30,3 +28,5 @@ say_hello_to_user("Sam", "*", 40)
 say_hello_to_user("Sam", width=10)
 say_hello_to_user(name="Sam", seperator="%", width=100)
 # say_hello_to_user()
+
+print(say_hello_to_user("Lipi"))
