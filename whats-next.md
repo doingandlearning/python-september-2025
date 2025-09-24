@@ -14,6 +14,18 @@ Weekly graded challenges (novice → advanced) plus screencasts; ideal for habit
 
 Code: 9B92Y7R3XYAD - 60 free days!
 
+Here are 10 more (also all 60 days of access):
+7EDPTBGFPURJ
+G77KPUEYTVFX
+LL6PRDQHV2C6
+QFYVG3FKEKUH
+6E362GXJLP63
+AKV344BE47DW
+4TTKADRTFEG7
+7UFRR9BCUKYU
+C2THAUXQULRQ
+AP2EFQWRCRWA
+
 ### O’Reilly Learning Platform
 
 Use the corporate subscription to stream **interactive** Python labs and classic books such as _Learning Python_ and _Fluent Python_; the platform’s “Interactive Learning” area lets you run code in-browser ([slo.oregon.gov][3], [en.wikipedia.org][4])
