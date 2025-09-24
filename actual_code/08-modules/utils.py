@@ -1,3 +1,7 @@
+"""
+This is a utils module. Leave stuff here until you find a better home for it.
+"""
+
 def printer(text):
   print("Here is the message")
   print(text)
@@ -15,5 +19,9 @@ class Shape:
 
 default_shape = Shape("circle")
 
-print("Welcome to the utils module")
-printer(default_shape)
+def main():
+  print(f"Welcome to the utils module - {__name__}")
+  printer(default_shape)
+
+if __name__ == "__main__":
+  main()
