@@ -1,6 +1,18 @@
 from maths import add
 import pytest
 
+def setup_function():
+  print("This is setting something up")
+
+def teardown_function():
+  print("This is tearing something down.")
+
+def setup_module():
+  print("Runs at the start of the test file.")
+
+def teardown_module():
+  print("Clean up after the file.")
+
 def test_two_whole_numbers_add_correctly():
     # Arrange - Given
     number1 = 10

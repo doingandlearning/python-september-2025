@@ -1,0 +1,6 @@
+Line 1: Phone
+Line 2: Keyboard
+Line 3: Cup
+Line 4: Speaker
+Line 5: Camera
+Line 6: Glasses cloth

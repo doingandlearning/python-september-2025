@@ -10,7 +10,8 @@ print(u.default_shape)
 
 u.printer("Hello!")
 
-###
+###  pip -> pip installs packages
+### GNU -> GNU's not unix
 
 from utils import Shape, printer as p
 
