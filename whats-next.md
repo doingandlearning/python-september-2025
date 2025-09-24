@@ -12,6 +12,8 @@ Free tutorials and paid learning paths cover everything from f-strings to async 
 
 Weekly graded challenges (novice → advanced) plus screencasts; ideal for habit building without overwhelm ([pythonmorsels.com][2])
 
+Code: 9B92Y7R3XYAD
+
 ### O’Reilly Learning Platform
 
 Use the corporate subscription to stream **interactive** Python labs and classic books such as _Learning Python_ and _Fluent Python_; the platform’s “Interactive Learning” area lets you run code in-browser ([slo.oregon.gov][3], [en.wikipedia.org][4])
